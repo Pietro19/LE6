@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ServiceGame {
+    
 
     public static List<Game> getListByPlatform(List<Game> games, Platform platform){
         List<Game> gamesByPlatform = new ArrayList<>();

@@ -3,7 +3,7 @@ package br.inatel.cdg.model;
 import lombok.Data;
 @Data
 public class Game {
-    
+
 
     private int rank;
     private String name;
